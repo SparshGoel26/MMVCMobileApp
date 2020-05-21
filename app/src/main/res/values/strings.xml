@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="department_name">
+        <item>Hotel Management</item>
+        <item>Engineering</item>
+        <item>Nursing</item>
+        <item>Dental Science</item>
+        <item>Pharmacy</item>
+        <item>Physiotherapy</item>
+        <item>Medical Science</item>
+        <item>Computer Applications</item>
+    </string-array>
+</resources>
